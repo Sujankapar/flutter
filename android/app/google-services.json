@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057350151996",
+    "project_id": "duaba-a5568",
+    "storage_bucket": "duaba-a5568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057350151996:android:b88f76d8570f790b3ab839",
+        "android_client_info": {
+          "package_name": "com.example.first_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057350151996-6carehmvo7th66dmc372dgibcbmhjt93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDK0f41KWJEGSWsXQsVLgFukeMXyHi6jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057350151996-6carehmvo7th66dmc372dgibcbmhjt93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

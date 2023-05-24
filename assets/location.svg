@@ -1,0 +1,13 @@
+<svg id="location" xmlns="http://www.w3.org/2000/svg" width="211" height="211" viewBox="0 0 211 211">
+  <g id="Group_83" data-name="Group 83" opacity="0.15">
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="105.5" cy="105.5" r="105.5" fill="#ffc600" opacity="0.46"/>
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="78.5" cy="78.5" r="78.5" transform="translate(27 27)" fill="#ffc600"/>
+    <circle id="Ellipse_24-2" data-name="Ellipse 24" cx="78.5" cy="78.5" r="78.5" transform="translate(27 27)" fill="none"/>
+  </g>
+  <g id="Iconly_Bold_Location" data-name="Iconly/Bold/Location" transform="translate(79 78)">
+    <rect id="Iconly_Bold_Location_Background_" data-name="Iconly/Bold/Location (Background)" width="54" height="54" fill="none"/>
+    <g id="Location-2" data-name="Location" transform="translate(7.875 4.5)">
+      <path id="Location-3" data-name="Location" d="M19.135,45a3.056,3.056,0,0,1-1.651-.557A48.383,48.383,0,0,1,5.018,32.876,23.355,23.355,0,0,1,0,18.715a18.167,18.167,0,0,1,1.515-7.29A18.7,18.7,0,0,1,5.632,5.476a19.346,19.346,0,0,1,26.982,0,18.689,18.689,0,0,1,4.12,5.948,18.16,18.16,0,0,1,1.515,7.29,23.366,23.366,0,0,1-5.018,14.162A49.338,49.338,0,0,1,20.764,44.443,2.966,2.966,0,0,1,19.135,45Zm-.024-32a6.33,6.33,0,0,0-6.3,6.3,6.1,6.1,0,0,0,1.848,4.4,6.428,6.428,0,0,0,8.915,0,6.083,6.083,0,0,0,1.862-4.4A6.353,6.353,0,0,0,19.111,13Z" fill="#ffc600"/>
+    </g>
+  </g>
+</svg>
